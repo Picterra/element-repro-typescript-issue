@@ -9,7 +9,7 @@
     "lint": "vue-tsc --noEmit --diagnostics"
   },
   "dependencies": {
-    "element-ui": "2.13.2",
+    "element-ui": "git+https://github.com/picterra/element#17e4bc650f63688931eb20a78c65ca9f551a1513",
     "vue": "2.6.14"
   },
   "engines": {
